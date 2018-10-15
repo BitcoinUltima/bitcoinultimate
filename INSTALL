@@ -1,0 +1,9 @@
+Building BitcoinUltimate
+
+See doc/readme-qt.rst for instructions on building BitcoinUltimate QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitcoinUltimate.
+
+See doc/build-*.txt for instructions on building bitcoinultimated,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitcoinUltimate.
